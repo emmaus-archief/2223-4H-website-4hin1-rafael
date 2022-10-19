@@ -52,7 +52,8 @@ p {
 }
 .kolomRechts {
   float:left;
-  width: 450px;
+  width: 250px;
+  padding-right:15px;
 }
 .kolomStop {
   clear:both;                   /* stop met floaten */
