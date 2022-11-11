@@ -62,7 +62,7 @@ p {
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
-      color: white;
+      color: #ffffff;
 }
 
 .smalltext {
@@ -102,7 +102,7 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #0042aa;
+    background-color: #0053aa;
 }
 
 nav li a.active {
