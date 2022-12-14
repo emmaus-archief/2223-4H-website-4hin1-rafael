@@ -108,3 +108,14 @@ nav li a:hover {
 nav li a.active {
     background-color: #3a88fe;
 }
+
+.bmw-e30 {
+  margin:15px; 
+  width:190px;
+}
+
+.tekst-plaatje-modellen {
+  float:right;
+  
+
+}
