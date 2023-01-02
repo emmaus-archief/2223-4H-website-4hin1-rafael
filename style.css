@@ -119,3 +119,16 @@ nav li a.active {
   
 
 }
+
+.KolomRechts {
+  width:250px;
+  height:113px;
+  float:left;
+  margin-bottom:10px;
+  
+}
+.KolomLinks {
+  width:300px;
+  height:113px;
+  float:left;
+}
