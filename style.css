@@ -109,16 +109,9 @@ nav li a.active {
     background-color: #3a88fe;
 }
 
-.bmw-e30 {
-  margin:15px; 
-  width:190px;
-}
 
-.tekst-plaatje-modellen {
-  float:right;
-  
 
-}
+
 
 .KolomRechts {
   width:250px;
@@ -131,4 +124,178 @@ nav li a.active {
   width:300px;
   height:113px;
   float:left;
+}
+
+.inleiding {
+  float:right;
+  width:400px;
+  margin-top:-230px;
+  margin-right:30px;
+  font-size:18px;
+}
+
+.bmwm2-model {
+  float:left;
+  width:250px;
+}
+
+.page-gs {
+  width:900px;
+  margin:10px auto; 
+}
+
+.gs-clubsport {
+  float:right;
+  width:480px;
+  margin-right:10px;
+}
+
+.newm2cs {
+  float:left;
+  width:400px;
+  height:266px;
+  margin-top:-490px;
+}
+
+.gs-clubsport2 {
+  float:right;
+  margin-right:10px;
+}
+
+.bmw-e30 {
+  width:250px;
+  margin-top:20px;
+}
+
+.bmw-modellen {
+  float:left;
+  width:190px;
+  height:127px;
+  margin-top:10px;
+}
+
+.bmw-1997 {
+  float:left;
+  width:190px;
+  height:127px;
+  margin-right:350px;
+  margin-top:5px;
+}
+
+.tekst-plaatje-e30 {
+  float:right;
+  margin-right:40px;
+  margin-top:55px;
+  font-size:16px;
+}
+
+.tekst-plaatje-1997 {
+  float:right;
+  margin-top:-65px;
+  margin-right:65px;
+  font-size:16px;
+}
+
+.bmw-2002 {
+  float:left;
+  width:190px;
+  height:127px;
+  margin-right:350px;
+  margin-top:5px;
+}
+
+.tekst-plaatje-2002 {
+  float:right;
+  margin-top:-65px;
+  margin-right:55px;
+}
+
+.bmw-2006 {
+  float:left;
+  width:190px;
+  height:127px;
+  margin-top:5px;
+}
+
+.tekst-plaatje-2006 {
+  float:right;
+  margin-top:50px;
+  margin-right:5px;
+}
+
+.bmw-2010 {
+  float:left;
+  width:190px;
+  height:127px;
+  margin-top:140px;
+  margin-left:-200px;
+}
+
+.tekst-plaatje-2010 {
+  margin-top:580px;
+  margin-left:225px;
+}
+
+.bmw-2013-17 {
+  float:left;
+  width:190px;
+  height:106px;
+  margin-top:50px;
+}
+
+.tekst-plaatje-2013-17 {
+  float:right;
+  margin-top:90px;
+  margin-right:60px;
+}
+
+.bmw-m2cs {
+  float:left;
+  width:190px;
+  height:127px;
+  margin-top:165px;
+  margin-left:-190px;
+}
+
+.tekst-plaatje-m2cs {
+  float:right;
+  margin-top:95px;
+  margin-right:55px;
+}
+
+.bmw-1serie {
+  float:left;
+  width:200px;
+  margin-top:-740px;
+}
+
+.bmw-240i {
+  float:left;
+  width:200px;
+  margin-top:-597px;
+}
+
+.bmw-ervaring-m2cs {
+  float:right;
+  width:200px;
+  margin-top:-500px;
+}
+
+.alfa-romeo {
+  float:right;
+  width:200px;
+}
+
+.ervaring-tekst {
+  width:420px;
+  float:right;
+  font-size:20px;
+  margin-top:65px;
+}
+
+.ervaring-tekst-2 {
+  float:left;
+  margin-top:80px;
+  font-size:20px;
+  width:450px;
 }
