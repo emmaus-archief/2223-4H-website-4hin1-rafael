@@ -266,24 +266,25 @@ nav li a.active {
 .bmw-1serie {
   float:left;
   width:200px;
-  margin-top:-740px;
+  margin-top:-540px;
 }
 
 .bmw-240i {
   float:left;
   width:200px;
-  margin-top:-597px;
+  margin-top:-397px;
 }
 
 .bmw-ervaring-m2cs {
   float:right;
   width:200px;
-  margin-top:-500px;
+  margin-top:-300px;
 }
 
 .alfa-romeo {
   float:right;
   width:200px;
+  margin-top:-150px;
 }
 
 .ervaring-tekst {
